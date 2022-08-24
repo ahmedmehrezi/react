@@ -1,0 +1,113 @@
+.justify-content-center{
+    font-size: 23px;
+}
+.navop{
+    position: sticky;
+    margin-bottom: 0px;
+}
+.logo{
+    height: 45px;
+    margin-bottom: 20px;
+}
+.ll{
+    color: rgb(5, 65, 25);
+    margin-left:20px ;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 30px;
+}
+.ll:hover{
+    color: rgb(75, 209, 115);
+    transition: 0.2s;
+    font-size: 32px;
+}
+.cardg{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.cardop{ 
+    text-align:center ;
+    margin: 20px;
+}
+.cardop:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.CardText{
+    
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    
+}
+.imgpr{
+    height: 150px;
+}
+
+.old_price{
+    color: rgb(102, 102, 102);
+    text-decoration: line-through;
+}
+.btn{
+    background-color: rgb(75, 209, 115);
+    border: none;
+}
+.Add_to_Cart{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: auto;
+    color: aliceblue;
+}
+.btn:hover{
+    background-color: rgb(18, 32, 22);
+}
+.des{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.Img{
+    width: 550px;
+}
+.pargraf{
+    margin-left: 60px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 19PX;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Italiana', serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Playfair';
+    font-style: italic;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    width: 65%;
+    margin: auto;
+    padding: 20px;
+    padding-bottom: 35px;
+}
+.logo1{
+    height: 30px;
+}
+
+.devwares{
+    margin: 0;
+}
+
+.bi{
+    background-color: rgba(0, 0, 0, 0.075);
+    height: 30px;
+    width: 40Px;
+    padding: 2px;
+    border-radius: 10px;
+}
+.devwares{
+    font-size: 13px;
+    color: gray;
+}
